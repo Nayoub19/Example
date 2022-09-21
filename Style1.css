@@ -1,0 +1,26 @@
+.titre {
+   text-transform: uppercase;
+    text-align: center; 
+    text-decoration: wavy underline;
+    letter-spacing: 3px;
+    
+}
+.chapitre {
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-weight: bold;
+}
+.sst{
+    color: red;
+    font-weight: bold;
+    line-height: 20px;
+    
+}
+p{
+    text-indent: 40px;
+    text-align:justify;
+}
+footer p{
+    text-align: center;
+    word-spacing: 3px;
+}
